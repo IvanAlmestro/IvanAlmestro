@@ -1,6 +1,6 @@
 # 💫 About Me:
 Actualmente Estudiante en la carrera Tecnicatura en Desarrollo de Aplicaciones Informaticas.
-En busca de oportunidades para seguir formandome en el ambito. <br>11/15<br>
+En busca de oportunidades para seguir formandome en el ambito. <br>13/15<br>
 
 
 ## 🌐 Socials:
