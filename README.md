@@ -1,6 +1,7 @@
 # 💫 About Me:
-Actualmente Estudiante en la carrera Tecnicatura en Desarrollo de Aplicaciones Informaticas.
-En busca de oportunidades para seguir formandome en el ambito. <br>13/15<br>
+Full Stack Developer
+Tecnico en Desarrollo de Aplicaciones Informaticas.
+En busca de la primer oportunidad en el sector IT, para seguir aprendiendo y aportar valor en equipos de trabajo. 
 
 
 ## 🌐 Socials:
