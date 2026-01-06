@@ -1,6 +1,8 @@
 # 💫 About Me:
-Full Stack Developer
+Full Stack Developer.
+
 Tecnico en Desarrollo de Aplicaciones Informaticas.
+
 En busca de la primer oportunidad en el sector IT, para seguir aprendiendo y aportar valor en equipos de trabajo. 
 
 
