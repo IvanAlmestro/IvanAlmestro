@@ -2,7 +2,7 @@
 Soy Full Stack Developer y estudiante avanzado de la Tecnicatura en Desarrollo de Aplicaciones Informáticas (TUDAI – UNICEN).<br><br>Me especializo en el desarrollo de aplicaciones web utilizando Java y Spring Boot en backend, y React en frontend. Trabajo aplicando buenas prácticas, principios de programación orientada a objetos y organización por capas para construir soluciones mantenibles y escalables.<br><br>Desarrolle proyectos académicos y personales donde implementé APIs REST, manejo de bases de datos relacionales y aplicaciones con arquitectura clara y estructurada.<br><br>Actualmente busco mi primera oportunidad profesional como desarrollador, donde pueda aportar una base técnica sólida, capacidad de aprendizaje rápido y compromiso con la mejora continua.
 
 
-## 🌐 Contacto:
+# 🌐 Contacto:
 No dudes en contactarme:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivann-almestro) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ialmestro@alumnos.exa.unicen.edu.ar) 
